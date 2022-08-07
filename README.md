@@ -30,5 +30,3 @@ Distributed under the GNU LESSER GENERAL PUBLIC LICENSE License. See LICENSE for
 
 ## Acknowledgements
 Yanlin Zhang &ndash; for devising this problem and providing data to test with.
-
-Vesper, my dog &ndash; for being a cutie.
