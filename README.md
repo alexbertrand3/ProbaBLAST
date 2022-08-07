@@ -2,6 +2,8 @@
 
 A modified BLAST algorithm for querying nucleotide sequences on probabilistic target databases.
 
+Read the full report [here](https://github.com/alexbertrand3/ProbaBLAST/blob/main/ProbaBLAST.pdf).
+
 # Usage
 
 ### Option 1 - Google Colab (Recommended)
