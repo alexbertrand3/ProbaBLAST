@@ -4,7 +4,7 @@ A modified BLAST algorithm for querying nucleotide sequences on probabilistic ta
 
 Read the full report [here](https://github.com/alexbertrand3/ProbaBLAST/blob/main/ProbaBLAST.pdf).
 
-# Usage
+## Usage
 
 ### Option 1 - Google Colab (Recommended)
 Open the project here:
@@ -22,13 +22,13 @@ Replace data/sequence.txt and data/confidence.txt with your data. See existing d
 
 A new sequence library will need to be built, for which you may want to change the word length (w) and probability threshold (p) settings. You may want to change the filename of the library.
 
-# Contact
+## Contact
 Alex Bertrand - alexbertrand3@gmail.com
 
-# License
+## License
 Distributed under the GNU LESSER GENERAL PUBLIC LICENSE License. See LICENSE for more information.
 
-# Acknowledgements
+## Acknowledgements
 Yanlin Zhang &ndash; for devising this problem and providing data to test with.
 
 Vesper, my dog &ndash; for being a cutie.
