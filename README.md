@@ -26,7 +26,7 @@ A new sequence library will need to be built, for which you may want to change t
 Alex Bertrand - alexbertrand3@gmail.com
 
 ## License
-Distributed under the GNU LESSER GENERAL PUBLIC LICENSE License. See LICENSE for more information.
+Distributed under the GNU LESSER GENERAL PUBLIC LICENSE. See LICENSE for more information.
 
 ## Acknowledgements
 Yanlin Zhang &ndash; for devising this problem and providing data to test with.
